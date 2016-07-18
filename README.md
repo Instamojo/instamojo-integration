@@ -279,6 +279,7 @@ If you’ve made an error with one of the query parameters, you may see one or m
 | QF13       | Data to sign invalid for link that requires signature          |     |
 | QF14       | Data to sign not specified for link that requires signature    |     |
 | QF15       | Signature not valid                                            |     |
+| QF16       | data_amount unacceptable unless Pay what you want is enabled   |     |
 
 After a payment
 ===============

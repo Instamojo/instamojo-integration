@@ -433,12 +433,12 @@ This is an implementation of the Instamojo REST API in Ruby.
 
 <https://github.com/Instamojo/Instamojo-rb>
 
-Prestashop plugin  
+PrestaShop plugin  
 If you use Prestashop for your shopping cart needs, then this plugin allows you to set up Instamojo for checkout.
 
 <https://github.com/Instamojo/instamojo-prestashop>
 
-Wordpress plugin  
+WordPress plugin  
 This WordPress plugin allows you to use Instamojo as a payment gateway in WooCommerce.
 
 <https://wordpress.org/plugins/woo-instamojo/>

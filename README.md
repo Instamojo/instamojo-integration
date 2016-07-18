@@ -423,7 +423,7 @@ This is an implementation of the Instamojo REST API in Python.
 
 <https://github.com/Instamojo/instamojo-py>
 
-PHP API wrapper  
+PHP API wrapper
 This is an implementation of the Instamojo REST API in PHP.
 
 <https://github.com/Instamojo/instamojo-php>
@@ -443,17 +443,17 @@ This WordPress plugin allows you to use Instamojo as a payment gateway in WooCom
 
 <https://wordpress.org/plugins/woo-instamojo/>
 
-OpenCart plugin
+OpenCart plugin   
 If you use OpenCart 1.5.x and 2.x for your shopping cart needs, then this plugin allows you to set up Instamojo for checkout.
 
 <http://www.opencart.com/index.php?route=extension/extension/info&extension_id=21984>
 
-Magento 
+Magento    
 If you use Magento 1.x for your shopping cart needs, then this plugin allows you to set up Instamojo for checkout.
 
 <http://www.magentocommerce.com/magento-connect/instamojo-payment-gateway.html>
 
-CS-Cart and Multi-Vendor
+CS-Cart and Multi-Vendor   
 If you use CS-Cart or Multi-Vendor 4.0.x for your shopping cart needs, then this plugin allows you to set up Instamojo for checkout.
 
 <https://github.com/Instamojo/Instamojo-CS-Cart-4.0.x>

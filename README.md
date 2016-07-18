@@ -428,15 +428,35 @@ This is an implementation of the Instamojo REST API in PHP.
 
 <https://github.com/Instamojo/instamojo-php>
 
+Ruby API wrapper  
+This is an implementation of the Instamojo REST API in Ruby.
+
+<https://github.com/Instamojo/Instamojo-rb>
+
 Prestashop plugin  
 If you use Prestashop for your shopping cart needs, then this plugin allows you to set up Instamojo for checkout.
 
 <https://github.com/Instamojo/instamojo-prestashop>
 
 Wordpress plugin  
-This is a sample Wordpress plugin and can be used to showcase your Instamojo links on Wordpress.
+This WordPress plugin allows you to use Instamojo as a payment gateway in WooCommerce.
 
-<https://github.com/Instamojo/instamojo-wordpress-plugin>
+<https://wordpress.org/plugins/woo-instamojo/>
+
+OpenCart plugin
+If you use OpenCart 1.5.x and 2.x for your shopping cart needs, then this plugin allows you to set up Instamojo for checkout.
+
+<http://www.opencart.com/index.php?route=extension/extension/info&extension_id=21984>
+
+Magento 
+If you use Magento 1.x for your shopping cart needs, then this plugin allows you to set up Instamojo for checkout.
+
+<http://www.magentocommerce.com/magento-connect/instamojo-payment-gateway.html>
+
+CS-Cart and Multi-Vendor
+If you use CS-Cart or Multi-Vendor 4.0.x for your shopping cart needs, then this plugin allows you to set up Instamojo for checkout.
+
+<https://github.com/Instamojo/Instamojo-CS-Cart-4.0.x>
 
 IM Tools  
 This repository contains a few useful Instamojo tools- such as a sample Webhook receiver and a command line tool to generate pre-filled and signed links on Instamojo. To use the link tool, simply download the Python file to your computer, open a command line shell and execute the following command for a tutorial on how to use the tool:
@@ -480,4 +500,4 @@ The first version of this document was released.
 <https://www.instamojo.com/developers/>
 
 [7] The procedure is described in detail here:
-<http://support.instamojo.com/support/solutions/articles/139575-what-is-the-message-authentication-code-in>
+<https://support.instamojo.com/hc/en-us/articles/207816249-What-is-the-Message-Authentication-Code-in-Webhook->

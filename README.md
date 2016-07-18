@@ -5,7 +5,7 @@ Introduction
 
 This document guides you through the process of creating a tighter integration between your web-application and Instamojo.
 
-Should you have any questions about what the most appropriate workflow is for you or for your customers, please feel free to call us at [+91-8880-110-011](tel:+918880110011) or email us at <support@instamojo.com>.
+Should you have any questions about what the most appropriate workflow is for you or for your customers, please feel free to  email us at <support@instamojo.com>.
 
 Basic features
 ==============

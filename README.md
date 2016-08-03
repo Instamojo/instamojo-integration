@@ -1,7 +1,7 @@
 Notice
 ============
 
-This integration documents has been deprecated, please refer to the new integration document here: https://docs.instamojo.com/docs/payments-api
+This integration document has been deprecated, please refer to the new integration document here: https://docs.instamojo.com/docs/payments-api
 
 Introduction
 ============

@@ -628,18 +628,30 @@ This is an implementation of the Instamojo REST API in PHP.
 
     \url{https://github.com/Instamojo/instamojo-php}
 
-\item [Prestashop plugin]
+\item [PrestaShop plugin]
 
-If you use Prestashop for your shopping cart needs, then this plugin allows you to set up Instamojo for checkout.
+If you use PrestaShop for your shopping cart needs, then this plugin allows you to set up Instamojo for checkout.
 
-    \url{https://github.com/Instamojo/instamojo-prestashop}
+    \url{https://github.com/ashwch/Instamojo-PrestaShop/}
 
 \item [Wordpress plugin]
 
-This is a sample Wordpress plugin and can be used to showcase your Instamojo
+This is a sample WordPress plugin and can be used to showcase your Instamojo
 links on Wordpress.
 
     \url{https://github.com/Instamojo/instamojo-wordpress-plugin}
+
+\item [WooCommerce plugin]
+    
+If you use WooCommerce then this plugin will allow you to use Instamojo as Payment gateway in WordPress.
+
+    \url{https://wordpress.org/plugins/woo-instamojo/}
+
+\item [Drupal Commerce plugin]
+
+If you use Drupal Commerce then this plugin will allow you to use Instamojo as Payment gateway with it.
+
+    \url{https://github.com/ashwch/commerce_instamojo}
 
 \item [IM Tools]
 
@@ -669,6 +681,12 @@ The first version of this document was released.
 \item Fixed an incorrect URL in an example.
 \item Added a cautionary note for aforementioned example.
 \item Added this change log and document version number.
+\end{enumerate}
+
+\item [Version 1.3: \date{April 7, 2014}] \hfill \\
+
+\begin{enumerate}
+\item Added and updated links to plugins.
 \end{enumerate}
 
 \end{description}
